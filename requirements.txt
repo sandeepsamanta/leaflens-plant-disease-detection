@@ -1,0 +1,13 @@
+# Training and evaluation (the API has its own, much smaller api/requirements.txt)
+torch>=2.3
+torchvision>=0.18
+numpy>=1.26
+pillow>=10.3
+scipy>=1.11
+scikit-learn>=1.4
+pandas>=2.1
+pyarrow>=15
+matplotlib>=3.8
+onnx>=1.16
+onnxruntime>=1.18
+tqdm

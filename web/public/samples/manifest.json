@@ -1,0 +1,86 @@
+[
+ {
+  "file": "lab-00.jpg",
+  "kind": "lab",
+  "label": "Tomato___Late_blight",
+  "title": "Tomato - Late blight",
+  "source": "PlantVillage",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "lab-01.jpg",
+  "kind": "lab",
+  "label": "Apple___Apple_scab",
+  "title": "Apple - Apple scab",
+  "source": "PlantVillage",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "lab-02.jpg",
+  "kind": "lab",
+  "label": "Potato___Early_blight",
+  "title": "Potato - Early blight",
+  "source": "PlantVillage",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "lab-03.jpg",
+  "kind": "lab",
+  "label": "Corn_(maize)___Common_rust_",
+  "title": "Corn (maize) - Common rust",
+  "source": "PlantVillage",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "lab-04.jpg",
+  "kind": "lab",
+  "label": "Grape___Black_rot",
+  "title": "Grape - Black rot",
+  "source": "PlantVillage",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "lab-05.jpg",
+  "kind": "lab",
+  "label": "Tomato___healthy",
+  "title": "Tomato - Healthy",
+  "source": "PlantVillage",
+  "license": "CC BY-SA 3.0"
+ },
+ {
+  "file": "field-06.jpg",
+  "kind": "field",
+  "label": "Peach___healthy",
+  "title": "Peach - Healthy",
+  "source": "PlantDoc",
+  "license": "CC BY 4.0",
+  "model_outcome": "right"
+ },
+ {
+  "file": "field-07.jpg",
+  "kind": "field",
+  "label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+  "title": "Tomato - Yellow leaf curl virus",
+  "source": "PlantDoc",
+  "license": "CC BY 4.0",
+  "model_outcome": "right"
+ },
+ {
+  "file": "field-08.jpg",
+  "kind": "field",
+  "label": "Tomato___Late_blight",
+  "title": "Tomato - Late blight",
+  "source": "PlantDoc",
+  "license": "CC BY 4.0",
+  "model_outcome": "unsure"
+ },
+ {
+  "file": "field-09.jpg",
+  "kind": "field",
+  "label": "Cherry_(including_sour)___healthy",
+  "title": "Cherry - Healthy",
+  "source": "PlantDoc",
+  "license": "CC BY 4.0",
+  "model_outcome": "wrong"
+ }
+]

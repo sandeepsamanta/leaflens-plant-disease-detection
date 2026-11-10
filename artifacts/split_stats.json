@@ -1,0 +1,20 @@
+{
+  "images": 54305,
+  "groups": 8997,
+  "groups_from_official_leaf_map": 41111,
+  "sizes": {
+    "test": 7758,
+    "val": 7765,
+    "train": 38782
+  },
+  "fallback_check": {
+    "images_checked": 38156,
+    "share_whose_leaf_is_split_across_groups": 0.066
+  },
+  "classes_missing_from_split": {
+    "test": [],
+    "val": [],
+    "train": []
+  },
+  "random_split_test_images_with_a_sibling_in_train": 0.9841
+}
